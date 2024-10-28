@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="btn_clear" type="id"/>
+    <item name="btn_submit" type="id"/>
+    <item name="et_age" type="id"/>
+    <item name="et_grade" type="id"/>
+    <item name="et_major" type="id"/>
+    <item name="et_name" type="id"/>
+    <item name="recycler_view" type="id"/>
+    <item name="tv_age" type="id"/>
+    <item name="tv_grade" type="id"/>
+    <item name="tv_major" type="id"/>
+    <item name="tv_name" type="id"/>
+    <string name="app_name">StudentInformationManagementApp</string>
+    <style name="Base.Theme.StudentInformationManagementApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.StudentInformationManagementApp" parent="Base.Theme.StudentInformationManagementApp"/>
+</resources>
